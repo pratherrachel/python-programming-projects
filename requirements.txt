@@ -1,0 +1,4 @@
+# Install versions appropriate for your Python release and operating system.
+numpy
+matplotlib
+tensorflow
