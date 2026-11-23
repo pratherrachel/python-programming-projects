@@ -9,6 +9,7 @@ A growing collection of introductory Python programming and neural-network exerc
 | [Cafe Order Calculator](01-cafe-order-calculator/) | Python fundamentals, dictionaries, input validation, arithmetic | `cafe_order.py` |
 | [MNIST Digit Classification](02-mnist-digit-classification/) | Image classification, data preprocessing, dense neural networks, dropout | `mnist_compare.py` |
 | [Sine Function Approximation](03-neural-network-function-approximation/) | Numerical approximation, neural-network regression, MSE, visualization | `sine_approximation.py` |
+| [SmartFit Fitness Eligibility](04-smartfit-fitness-eligibility/) | Nested conditionals, logical operators, membership choices | `smartfit.py` |
 
 ## Getting started
 
@@ -28,3 +29,7 @@ A growing collection of introductory Python programming and neural-network exerc
 ## Next steps
 
 Improve unit tests, compare results across different random seeds, add a confusion matrix for MNIST, and document plots from actual runs.
+
+## SmartFit original coursework
+
+The [SmartFit project](04-smartfit-fitness-eligibility/) contains my original introductory Python assignment, unchanged. The folder README documents the intended behavior and limitations without claiming additional validation, price calculations, or automated tests.

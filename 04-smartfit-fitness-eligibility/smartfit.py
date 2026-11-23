@@ -1,10 +1,3 @@
-"""SmartFit: a command-line fitness program and membership eligibility demo.
-
-Educational example only. Medical clearance rules here are fictional program
-rules, not medical advice or a real-world determination of fitness eligibility.
-"""
-
-
 # SmartFit Fitness Program for New Customers Eligibility
 
 # Asks for the customer for their age to determine which program they are eligible for
